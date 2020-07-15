@@ -1,0 +1,29 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+br {
+  display: block;
+  content: " ";
+  height: 30px;
+}
+
+p {
+  font-size: 14px;
+  line-height: 25px;
+}
+
+a {
+  color: #3367d6;
+  text-decoration: none;
+}
+
+.container {
+  width: 965px;
+  margin: 0 auto;
+  padding-top: 180px;
+}
+
+.container_item {
+  padding-bottom: 20px;
+}
